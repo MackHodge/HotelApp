@@ -52,4 +52,10 @@ public class HotelOverzichtController {
 
         boekingenListView.setItems(boekingen);
     }
+
+    public void Reset(ActionEvent actionEvent) {
+    }
+
+    public void Boek(ActionEvent actionEvent) {
+    }
 }
